@@ -44,8 +44,7 @@
 
 ## 🎮 Demo
 
-📽️ [Watch the demo video](https://github.com/yourusername/ClickTail/demo)  
-*(Replace with actual link once uploaded)*
+📽️ [Watch the demo video](https://github.com/user-attachments/assets/3e2abdc4-ea76-4953-bc23-46a44db27d85)
 
 ---
 
